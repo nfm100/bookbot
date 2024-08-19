@@ -1,2 +1,2 @@
 # bookbot
-CLI that gives statistics on books.
+BookBot is my first project!
